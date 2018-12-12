@@ -53,11 +53,11 @@ Refer code for details.
 	APP STRUCTURE
 
 Schema : 
------------
+
 alarm 
      phone 
      number(String)		logs(List of Strings)		start_time(String)
------------
+
 
 Essential Directory : 
 
